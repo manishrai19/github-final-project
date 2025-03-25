@@ -1,1 +1,1 @@
-All contributions including code changes, new features, bug fixes, issues, documentation imporvements, enahancements are welcome
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
